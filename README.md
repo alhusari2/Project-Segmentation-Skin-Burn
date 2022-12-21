@@ -4,6 +4,7 @@ so project ini dibuat dalam rangka tugas akhir mata kuliah Pengantar Pengolahan 
 dengan menggunakan metode level set dan k-means clustering. 
 
 #abstrak 
+
 luka bakar adalah suatu bentuk kerusakan pada 
 lapisan kulit manusia paling luar sebagai akibat 
 kontak langsung dengan sumber panas, di 
