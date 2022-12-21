@@ -25,3 +25,12 @@ metode level set dan K-Means clustering, hasil yang
 diperoleh segmentasi berupa daerah area luka 
 bakar.
 
+#hasil project
+![image](https://user-images.githubusercontent.com/74849281/208930937-b8c493cd-c01d-41af-a7b0-f5defd7e3467.png)
+![image](https://user-images.githubusercontent.com/74849281/208930969-d87bde1e-a6f8-47ed-bdbb-ad83df2d3f43.png)
+![image](https://user-images.githubusercontent.com/74849281/208931140-df025dc8-8027-4078-8f64-4488ba955873.png)
+![image](https://user-images.githubusercontent.com/74849281/208931172-f1f4fb24-8e33-4a15-a994-83c451d04768.png)
+![image](https://user-images.githubusercontent.com/74849281/208930906-48e3a9dc-8ef6-4bbe-ae12-26ee4e12e8bb.png)
+![image](https://user-images.githubusercontent.com/74849281/208931265-1ede3730-7bd2-4877-979c-9a7b28c58846.png)
+![image](https://user-images.githubusercontent.com/74849281/208931327-aafba42c-e86a-41f2-b7ea-21604bb10219.png)
+
