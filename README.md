@@ -5,8 +5,8 @@ Segmentasi Citra pada Luka Bakar di Kulit dengan Menggunakan Metode Level Set da
 so project ini dibuat dalam rangka tugas akhir mata kuliah Pengantar Pengolahan Citra Digital, jadi kami membuat sebuah project segmentasi citra dari luka bakar 
 dengan menggunakan metode level set dan k-means clustering. 
 
-#abstrak 
-
+abstrak 
+--
 luka bakar adalah suatu bentuk kerusakan pada 
 lapisan kulit manusia paling luar sebagai akibat 
 kontak langsung dengan sumber panas, di 
@@ -25,7 +25,8 @@ metode level set dan K-Means clustering, hasil yang
 diperoleh segmentasi berupa daerah area luka 
 bakar.
 
-#hasil project
+hasil project
+--
 ![image](https://user-images.githubusercontent.com/74849281/208930937-b8c493cd-c01d-41af-a7b0-f5defd7e3467.png)
 ![image](https://user-images.githubusercontent.com/74849281/208930969-d87bde1e-a6f8-47ed-bdbb-ad83df2d3f43.png)
 ![image](https://user-images.githubusercontent.com/74849281/208931140-df025dc8-8027-4078-8f64-4488ba955873.png)
